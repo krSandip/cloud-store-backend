@@ -45,5 +45,12 @@ mvn spring-boot:run
 *  Database on MongoDB Atlas
 *  Docker used for portability and consistency
 
+---
 
-
+## 👨‍💻 Author
+**Sandeep Kumar**  
+- 🎓 B.E in Electronics & Communication Engineering  
+- 📧 Email: [sink10704@gmail.com](mailto:sink10704@gmail.com)  
+- 📱 Mobile: +91 7007935226  
+- 🔗 LinkedIn: [linkedin.com/in/sandeep-kumar-842ab1256](https://www.linkedin.com/in/sandeep-kumar-842ab1256)  
+- 💻 GitHub: [github.com/krSandip](https://github.com/krSandip)  
