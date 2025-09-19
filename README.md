@@ -3,7 +3,7 @@
 The **backend** of Cloud Store, a secure and scalable file sharing platform.  
 Built using **Spring Boot** and **MongoDB**, it provides REST APIs for authentication, file management, payments, and credits system.
 
-🔗 **Live Demo**: [Cloud Store - File Sharing System](https://cloud-store-web-app.netlify.app)
+🔗 **Live Demo**: [Cloud Store - File Sharing System](https://cloud-store-project.netlify.app)
 
 ---
 
